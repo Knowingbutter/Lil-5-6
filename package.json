@@ -1,8 +1,8 @@
 {
-    "name": "holyub",
+    "name": "5-6",
     "version": "5.0.0",
-    "repository": "https://github.com/QuiteAFancyEmerald/Holy-Unblocker",
-    "description": "Holy Unblocker is a secure web proxy service with support for many sites.",
+    "repository": "https://github.com/Knowingbutter/Lil-5-6",
+    "description": "Lil-5-6 is a secure web proxy service with support for many sites.",
     "main": "backend.js",
     "scripts": {
         "start": "node backend.js"
@@ -12,7 +12,7 @@
         "node.js",
         "unblocker"
     ],
-    "author": "Titanium Network",
+    "author": "Mick",
     "license": "MIT",
     "dependencies": {
         "babel": "^6.23.0",
